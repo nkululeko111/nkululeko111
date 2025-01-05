@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @nkululeko111
-- 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on any projects relating to front-end (html,css and javascript) and back-end (python,java).
+
+- 💞️ LET CONNECT AND WORK!
 - 📫 How to reach me nkululekosekwanele7@gmail.com
 
 <!---
